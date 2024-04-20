@@ -1,0 +1,20 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+html, body {
+    font-family: Inter,sans-serif
+}
+h2{
+    color: #2c1106;
+}
+.img{
+    max-width: 300px;
+    border-radius: 24px;
+}
+.btn-danger{
+    background-color: #2c1106;
+    border-color: #4e2617;
+}
